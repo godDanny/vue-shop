@@ -11,6 +11,7 @@
 		"newFeature": true,
 		"autoAudits": false
 	},
+	"miniprogramRoot":"./dist/wx/",
 	"compileType": "miniprogram",
 	"libVersion": "2.6.2",
 	"appid": "wx17003a2f1c921f7c",
